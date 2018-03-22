@@ -1,0 +1,24 @@
+html{font-size: 1.5em;}
+body{
+  background-color: #4A96AD!important;
+  font-family: 'Rajdhani', sans-serif!important;
+}
+.content{background-color: #7D1935;color: #F5F3EE;}
+.no-gutters{padding:0!important; margin: 0!important;}
+section{margin:6vh 0!important;}
+h2{font-weight: bold;}
+h2, h5 {margin:0px!important; padding: 0!important;}
+.timer{font-weight: bold;}
+.timer-wrapper{
+  padding: 100px;
+  border: 20px solid white;
+  border-radius: 1000px;
+  height: 20vw;
+  width: 20vw;
+}
+.fa:hover{cursor: pointer;}
+.fa-plus{color: #32CD32;}
+.fa-minus{color: red;}
+.modal{color: #7D1935;}
+.footer{font-size: 0.6em; background: black; padding: 4px;}
+img{height: 15px }
